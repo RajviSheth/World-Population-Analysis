@@ -1,5 +1,5 @@
 # World-Population_Analysis
-## Meaningful insights into the world population data!
+## Meaningful insights into the World Population data!
 
 * Created an analytics dashboard using the World Population data.
 * Using Google Data Looker Studio, the dashboard shares some useful insights on things like how the population rate changed in some contries based on the years.
