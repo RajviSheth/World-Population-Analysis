@@ -1,4 +1,4 @@
-# World-Population_Analysis
+# World-Population-Analysis
 ## Meaningful insights into the World Population data!
 
 * Created an analytics dashboard using the World Population data.
